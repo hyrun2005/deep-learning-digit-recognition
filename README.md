@@ -43,7 +43,7 @@ python app.py
 ---
 
 ## 🔬 Model Details
-- **Dataset**: MNIST (60,000 training, 10,000 testing images).
+- **Dataset**: MNIST (50,000 training, 10,000 testing images).
 - **Architecture**: Convolutional Neural Network (CNN) with:
   - Convolutional & Pooling layers
   - Fully connected layers
